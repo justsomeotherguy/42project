@@ -6,7 +6,7 @@
 /*   By: jwilliam <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/11/16 13:53:02 by jwilliam          #+#    #+#             */
-/*   Updated: 2021/11/16 15:25:50 by jwilliam         ###   ########.fr       */
+/*   Updated: 2021/12/02 12:27:22 by jwilliam         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -30,6 +30,4 @@ void	test_code_2(void)
 int	main(void)
 {
 	test_code_2();
-	
-	ft_printf("Hello, my name is Nathanael");
 }
