@@ -30,4 +30,6 @@ void	test_code_2(void)
 int	main(void)
 {
 	test_code_2();
+	
+	ft_printf("Hello, my name is Nathanael");
 }
