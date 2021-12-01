@@ -6,11 +6,15 @@
 /*   By: jwilliam <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/11/16 13:53:02 by jwilliam          #+#    #+#             */
-/*   Updated: 2021/11/16 15:25:50 by jwilliam         ###   ########.fr       */
+/*   Updated: 2021/12/01 11:19:41 by lta              ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include	<unistd.h>
+
+/*
+ * looks like a fibonacci function to me
+ */
 
 void	test_code_2(void)
 {
